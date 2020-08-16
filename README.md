@@ -13,4 +13,4 @@ it taked 30 min
 
 ## Solution
 <!-- Embedded whiteboard image -->
-<img src="images/401 challeng 1.PNG">
+<img src="assets/revers-array-img.PNG">
